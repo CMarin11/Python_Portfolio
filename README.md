@@ -1,2 +1,2 @@
-# Python_Portfolio
+# Christian_Marin_Python_Portfolio
 This is the portfolio of python code that I learned during BISC 450C 
